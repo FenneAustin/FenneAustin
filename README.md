@@ -1,6 +1,5 @@
 
-[![MasterHead](![helloworldbanner](https://user-images.githubusercontent.com/90361430/207989210-5eae206f-6ca8-4402-9616-bb014a67378a.jpg)
-)]
+[![MasterHead](https://user-images.githubusercontent.com/90361430/207989210-5eae206f-6ca8-4402-9616-bb014a67378a.jpg)]
 <h1 align="center">Hi 👋, I'm Austin Fenne</h1>
 <h3 align="center">App Academy graduate as a Full-Stack Software Engineer</h3>
 
