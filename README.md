@@ -60,4 +60,4 @@
 
 <details>
   <summary><h3> My Coding Journey</h3></summary>
-  I started coding w hen I was in high school
+  under consturction
