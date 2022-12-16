@@ -58,3 +58,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenneaustin&theme=tokyonight" alt="fenneaustin" /></p>
 
 
+<details>
+  <summary><h3> My Coding Journey</h3></summary>
+  I started coding w hen I was in high school
