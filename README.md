@@ -69,9 +69,7 @@
 #
   
 <h3 align="left">Examples of Work</h3>
-<p float="left">
 <a href="https://www.googe.com" target="blank"><img align="center" src ="https://res.cloudinary.com/dugmjvzmx/image/upload/v1671154033/slackthumbnail_jcctli.jpg" alt="fenneaustin" width="300" /></a>
 <a href="https://www.googe.com" target="blank"><img align="center" src ="https://res.cloudinary.com/dugmjvzmx/image/upload/v1671154033/mediumthumbnail_q8zlrj.jpg" alt="fenneaustin" width="300" /></a>
 <a href="https://www.googe.com" target="blank"><img align="center" src ="https://res.cloudinary.com/dugmjvzmx/image/upload/v1671154033/AirBnbThumbnail_lpearz.jpg" alt="fenneaustin" width="300" /></a>
-</p>
   
