@@ -63,7 +63,7 @@
 <details>
   <summary><h3> My Coding Journey</h3></summary>
   under consturction
-  
+</details>
 #
   
 <h3 align="left">Examples of Work</h3>
