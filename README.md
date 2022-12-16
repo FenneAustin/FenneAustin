@@ -70,7 +70,7 @@
   
 <h3 align="left">Examples of Work</h3>
 <p float="left">
-  <a href="https://www.googe.com" target="blank"><img align="center" src ="https://res.cloudinary.com/dugmjvzmx/image/upload/v1671154033/slackthumbnail_jcctli.jpg" alt="fenneaustin" height="100" width="120" /></a>
+  <a href="https://www.googe.com" target="blank"><img align="center" src ="https://res.cloudinary.com/dugmjvzmx/image/upload/v1671154033/slackthumbnail_jcctli.jpg" alt="fenneaustin" width="250" /></a>
 </p>
 </p>
   
