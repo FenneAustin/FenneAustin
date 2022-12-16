@@ -52,13 +52,13 @@
 #
 
 ### 📊 Stats
-
+<details>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fenneaustin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fenneaustin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenneaustin&show_icons=true&locale=en&theme=tokyonight" alt="fenneaustin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenneaustin&theme=tokyonight" alt="fenneaustin" /></p>
-
+</details>
 
 <details>
   <summary><h3> My Coding Journey</h3></summary>
