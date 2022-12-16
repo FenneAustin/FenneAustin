@@ -52,7 +52,7 @@
 #
 
 <details>
-  <summary>### 📊 Stats</summary>
+  <summary><h3> 📊 Stats</h3></summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fenneaustin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fenneaustin" /></p>
 
