@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Austin Fenne</h1>
 <h3 align="center">App Academy graduate as a Full-Stack Software Engineer</h3>
 
+
+- 📘 Currently learning TypeScript
+
 - 💬 Ask me about **React, Javascript, Express, or Python**
 
-- 📫 How to reach me **austindfenne@gmail.com**
+- 📫 How to reach me: **austindfenne@gmail.com** [Linkedin](https://www.linkedin.com/in/austin-fenne/
 
 
 #
