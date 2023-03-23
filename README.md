@@ -3,7 +3,7 @@
 <h3 align="center">App Academy graduate as a Full-Stack Software Engineer</h3>
 
 
-- 📘 Currently learning TypeScript
+- 📘 Currently learning TypeScript, React Native, and Sass
 
 - 💬 Ask me about **React, Javascript, Express, or Python**
 
